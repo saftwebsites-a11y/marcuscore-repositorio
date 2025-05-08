@@ -3,7 +3,7 @@
 ![MarcusCore Logo](https://marcuscore.com/logo.png)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/marcuscore/marcuscore/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/saftwebsites-a11y/marcuscore-repositorio)
 
 MarcusCore é um painel de controle completo para gerenciamento de servidores VPS, oferecendo funcionalidades similares ao WHM/cPanel. Este sistema permite gerenciar contas de hospedagem, domínios, bancos de dados, emails, servidores web, backups, segurança e muito mais através de uma interface web moderna e intuitiva.
 
